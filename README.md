@@ -1,9 +1,11 @@
 # LinCircuit-equation-solver
 A jupyter notebook based Linear circuit equation solver and calculator
 
-The needed libraries are: sympy and ipywidgets, which come by default when installing Anaconda
+The needed libraries are: sympy and ipywidgets, which come by default when installing Anaconda.
 
+Download [Anaconda for windows](https://www.anaconda.com/products/individual)
 
+⠀
 
 ![This is an image](readme_assets/linsolve-explanation.png)
 
@@ -23,3 +25,6 @@ The needed libraries are: sympy and ipywidgets, which come by default when insta
     * I can also multiply the second parsed equation by 2: pEq[1] * 2.
     * I can multiply the first parsed equation with the second linsolve equation: pEq[0] * linEq[1]
 6. Select into which equations you want to substitute values.
+
+## Getting LaTeX equations form Microsoft Word
+
