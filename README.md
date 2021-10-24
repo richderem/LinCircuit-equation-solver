@@ -34,4 +34,4 @@ Also, remember to use the \cdot symbol instead of the \bullet symbol. The wrong 
 
 ![Word Equations](readme_assets/word-latex.png)
 
-Any improvements or tips appreciated.
+Any improvements or tips appreciated! :)
