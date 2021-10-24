@@ -7,7 +7,7 @@ Download [Anaconda for windows](https://www.anaconda.com/products/individual)
 
 ⠀
 
-![This is an image](readme_assets/linsolve-explanation.png)
+![Linear Circuit Equation claculator layout](readme_assets/linsolve-explanation.png)
 
 ## Description
 1. Choose the number of equations you want to solve
@@ -27,4 +27,6 @@ Download [Anaconda for windows](https://www.anaconda.com/products/individual)
 6. Select into which equations you want to substitute values.
 
 ## Getting LaTeX equations form Microsoft Word
+If you write your equations in Word you can directly copy them into this calculator. Just make sure you have selected the LaTex equation type in the Equation tab in Word.
 
+![Word Equations](readme_assets/word-latex.png)
