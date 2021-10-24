@@ -25,9 +25,11 @@ Download [Anaconda for windows](https://www.anaconda.com/products/individual)
     * I can multiply the first parsed equation with the second linsolve equation: pEq[0] * linEq[1]
 6. Select into which equations you want to substitute values.
 
-## Getting LaTeX equations form Microsoft Word
+## Getting LaTeX equations from Microsoft Word
 If you write your equations in Word you can directly copy them into this calculator. Just make sure you have selected the LaTex equation type in the Equation tab in Word.
 
 Remember to write the equations in a way that the parser can understand: <img src="https://latex.codecogs.com/svg.image?R_1\bullet&space;(I_1&space;&plus;&space;2)" title="R_1\bullet (I_1 + 2)" />. (If you want to fix it feel free.)
 
 ![Word Equations](readme_assets/word-latex.png)
+
+Any improvements or tips appreciated.
