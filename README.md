@@ -30,7 +30,7 @@ If you write your equations in Word you can directly copy them into this calcula
 
 Remember to write the equations in a way that the parser can understand correctly: <img src="https://latex.codecogs.com/svg.image?R_1\cdot(I_1&plus;2)" title="R_1\cdot(I_1+2)" />. (This is a bug. If you want to fix it feel free.)
 
-Also, remember to use the \cdot symbol instead of the \bullet symbol. The wrong one is a square the correct a circle. 
+Also, remember to use the \cdot symbol instead of the \bullet symbol. The wrong one is a square the correct a circle. If you look closely you can see the difference. If not take a magnifying lens and try again.
 
 ![Word Equations](readme_assets/word-latex.png)
 
