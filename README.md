@@ -25,7 +25,7 @@ Download [Anaconda for windows](https://www.anaconda.com/products/individual)
     * For example if i want to add 2 to the first parsed equation I would enter: pEq[0] + 2.
     * I can also multiply the second parsed equation by 2: pEq[1] * 2.
     * I can multiply the first parsed equation with the second linsolve equation: pEq[0] * linEq[1]
-6. Select into which equations you want to substitute values.
+6. Select into which equations you want to substitute values or from which equations you want to take the inverse laplace transform.
 
 ## Getting LaTeX equations from Microsoft Word
 If you write your equations in Word you can directly copy them into this calculator. Just make sure you have selected the LaTex equation type in the Equation tab in Word.
