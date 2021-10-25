@@ -3,6 +3,8 @@ A jupyter notebook based Linear circuit equation solver and calculator. Used to 
 
 The needed libraries are: sympy and ipywidgets, which come by default when installing Anaconda.
 
+All of the code is in the file Linsolve clean.ipynb 
+
 Download [Anaconda for windows](https://www.anaconda.com/products/individual)
 
 
