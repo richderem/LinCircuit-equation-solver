@@ -1,7 +1,7 @@
 # LinCircuit-equation-solver
 A jupyter notebook based Linear circuit equation solver and calculator. Used to symbolically analize linear circuits, especially in the complex frequency - s domain, but can also be used as a neat linear equation solver and substituter.
 
-The needed libraries are: sympy and ipywidgets, which come by default when installing Anaconda.
+The needed libraries are: sympy and ipywidgets, which come by default when installing Anaconda and also antl3r, which you can install with pip.
 
 All of the code is in the file Linsolve clean.ipynb 
 
