@@ -17,6 +17,8 @@ Download [Anaconda for windows](https://www.anaconda.com/products/individual)
 4. Buttons
     * Parse equations - read(parse) the equations form section 3.
     * LinSolve for I - solve the system of equations for current I
+    * LinSolve for V - solve the system of equations for voltage V
+      - To be able to solve a system of eqautions use current or voltage prefixes starting with 1.
     * Inverse laplace trans - Inverse laplace transform the resulting linsolve equations
     * Substitute in equations - substitute the values from section 2. into equations
     * Clear subs values - currently doesn't work
@@ -26,6 +28,8 @@ Download [Anaconda for windows](https://www.anaconda.com/products/individual)
     * I can also multiply the second parsed equation by 2: pEq[1] * 2.
     * I can multiply the first parsed equation with the second linsolve equation: pEq[0] * linEq[1]
 6. Select into which equations you want to substitute values or from which equations you want to take the inverse laplace transform.
+
+
 
 ## Getting LaTeX equations from Microsoft Word
 If you write your equations in Word you can directly copy them into this calculator. Just make sure you have selected the LaTex equation type in the Equation tab in Word.
